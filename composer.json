@@ -13,10 +13,16 @@
 			"email": "syahzul@me.com"
 		}
 	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/syahzul/laravel-4-generators"
+		}
+	],
 	"require": {
 		"php": ">=5.4.0",
 		"illuminate/support": "~6.0",
-		"xethron/laravel-4-generators": "~3.1.0",
+		"xethron/laravel-4-generators": "~3.2.0",
 		"doctrine/dbal": "~2.4"
 	},
 	"autoload": {
