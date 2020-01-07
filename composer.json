@@ -37,5 +37,7 @@
 				"Xethron\\MigrationsGenerator\\MigrationsGeneratorServiceProvider"
 			]
 		}
-	}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
